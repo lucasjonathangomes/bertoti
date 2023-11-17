@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Pixelify+Sans&family=Poppins:wght@300&display=swap');
+
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+	padding: 0;
+}
+
+body, html {
+	width: 100%;
+}
+
+body{
+    
+    background-image: url('img/sabores_fundo.jpg');
+    background-size:cover;
+    
+}
+
+h2 {
+    text-align: center;
+    
+}
+
+
+ img{
+    /* float: left; */
+    width: 20px;
+    height: 40px;
+    padding-bottom: 10px;
+    margin-bottom: 2px;
+  }
+  
+#tituloimagem h2 {
+    position: relative;
+    top: 18px;
+    left: 10px;
+}
+
+#nomesorveteria{
+    margin-top: 20px;
+    font-family: 'Pacifico', sans-serif;
+    color: #f35626;
+	background-image: -webkit-linear-gradient(92deg, #f35626, #feab3a);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	-webkit-animation: hue 10s infinite linear;
+}
+
+@-webkit-keyframes hue {
+  from {
+    -webkit-filter: hue-rotate(0deg);
+  }
+  to {
+    -webkit-filter: hue-rotate(-360deg);
+  }
+}
+   
+#colbtn{
+    padding-top: 15px;
+    padding-left: 40px;
+    margin-right: 20px;
+
+    
+}
+
+
+#tabela{
+    font-family: 'Pacifico', sans-serif;
+    width: 98%;
+    padding: 2rem;
+    margin: 8px;
+    backdrop-filter: blur(20px);
+}
+
+.titulotabela{
+    font-size:larger;
+}
