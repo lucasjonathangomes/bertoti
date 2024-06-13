@@ -34,7 +34,7 @@ Fiquei com a responsabilidade de criação das páginas de login,home, cadastro 
 
 ![image](https://github.com/lucasjonathangomes/bertoti/assets/111617449/f281e0ce-1c34-415b-a905-16bd915a2e92)
 
-Desenvolvi uma página de login que inclui um formulário para inserir o e-mail e a senha do usuário, juntamente com um link para recuperar a senha. A página possui um vídeo de fundo, estilização com CSS, e um botão de login. Há também uma opçao para recuperar a senha, em que o usuário pode inserir seu e-mail para receber instruções de recuperação. Foi utilizado: estilos CSS para o layout e bibliotecas como Bootstrap para o auxilio mininmo de criação da página
+Desenvolvi uma página de login completa, apresentando um formulário para inserção do e-mail e senha do usuário, acompanhado de um link para recuperação de senha. Para tornar a experiência mais atrativa, integrei um vídeo de fundo e apliquei estilos com CSS para uma estética agradável. Adicionei também a opção de recuperação de senha, onde o usuário pode inserir seu e-mail para receber orientações de recuperação. Utilizei estilos CSS para o layout e contei com o suporte mínimo fornecido pela biblioteca Bootstrap para a construção da página.
 
 </summary>
 
@@ -47,7 +47,7 @@ Desenvolvi uma página de login que inclui um formulário para inserir o e-mail 
 
 ![image](https://github.com/lucasjonathangomes/bertoti/assets/111617449/ad4940ac-1a31-4de5-94f2-9aa870a9c5f0)
 
-Desenvolvi uma interface de usuário para criar uma relação entre um usuário e um Centro de Resultado. A página contém um formulário com dois campos de seleção, um para o usuário e outro para o Centro de Resultado, e um botão "Criar" para submeter o formulário. O código também inclui bibliotecas externas, como Bootstrap e jQuery, para estilização e funcionalidades adicionais.
+Ao acessar, cadastro de usuário, os usuários são apresentados com um formulário onde podem inserir informações como nome, e-mail, senha e cargo. Ao preencherem os campos e clicarem no botão "Cadastrar", os dados são enviados para processamento que combina tecnologias web front-end como HTML, CSS e JavaScript, juntamente com o framework Bootstrap, para criar uma interface de usuário interativa, o Bootstrap foi utilizado para fornecer um conjunto de estilos pré-definidos e componentes, facilitando o desenvolvimento e a consistência visual da página.
 
 </summary>
 
