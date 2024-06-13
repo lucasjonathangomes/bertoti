@@ -6,8 +6,8 @@ Para dar continuidade na programação, engressei na Faculdade de tecnologia de 
 
 ## Controle de jornada de trabalho - Aplicação web 
 
-Empresa aliada:[https://2rpnet.com.br/]<br>
-Projeto:[https://github.com/dragonfatec/Projeto-web]
+* [Empresa aliada](https://2rpnet.com.br/)<br>
+* [Projeto](https://github.com/dragonfatec/Projeto-web)
 
 
 #### 3º Semestre - 2023-2
@@ -65,31 +65,28 @@ Desenvolvi a página de consulta de usuários. A parte principal da página exib
 </details>
 
 
-* Modelagem do layout das telas
+### Soft Skills Efetivamente Desenvolvidas
 
-### Imagem
-* Criação de modelo visual do grupo.
-* Criação de modelo de imagens para o read.me do git.
+* Comunicação eficaz
+<details>
+  No desenvolvimento do projeto, consegui mostrar minhas ideias de forma eficaz e prática, tanto nas reuniões presenciais quanto     pelos veículos de comunicação escritos. Esse projeto permitiu colaborar efetivamente com meus colegas de grupo, absorver os        requisitos do cliente e documentar o desenvolvimento de maneira adequada.
+</details>
 
-### Criação e desenvolvimento da tela de login
+Trabalho em equipe:
+<details>
+  Trabalhei a abordagem de estar colaborativamente em equipe, compartilhando pensamentos, escutando feedback construtivo e           contribuindo para chegar nos objetivos em comuns. Essa colaboração foi fundamental para o sucesso do projeto de desenvolvimento    de software.
+</details>
+
+Resolução de problemas
+<details>
+  Durante o projeto, demonstrei habilidade em identificar, analisar e resolver problemas de forma eficiente e criativa.             Enfrentamos diversos desafios complexos durante o desenvolvimento de software e consegui superá-los com sucesso.
+</details>
 
 
-#### Soft Skills Efetivamente Desenvolvidas
-
-Comunicação eficaz: No desenvolvimento do projeto, consegui mostrar minhas ideias de forma eficaz e prática, tanto nas reuniões quanto pelos veículos de comunicação escritos. Esse projeto permitiu colaborar efetivamente com meus colegas de grupo, absorver os requisitos do cliente e documentar o desenvolvimento de maneira adequada.
-
-Trabalho em equipe: Trabalhei a abordagem de estar colaborativamente em equipe, compartilhando pensamentos, escutando feedback construtivo e contribuindo para chegar nos objetivos em comuns. Essa colaboração foi fundamental para o sucesso do projeto de desenvolvimento de software.
-
-Resolução de problemas: Durante o projeto, demonstrei habilidade em identificar, analisar e resolver problemas de forma eficiente e criativa. Enfrentamos diversos desafios complexos durante o desenvolvimento de software e consegui superá-los com sucesso.
-
-Adaptabilidade: Estive sempre aberto a aprender e me adaptar a novas tecnologias, metodologias de trabalho e requisitos do projeto ao longo do projeto. Reconheci a importância de nos mantermos atualizados em um ambiente de desenvolvimento de software em constante evolução.
-
-Pensamento crítico: Utilizei meu pensamento crítico para analisar informações, avaliar alternativas e tomar decisões embasadas ao longo do projeto. Isso nos ajudou a desenvolver soluções de software eficazes e a resolver problemas de maneira eficiente durante todo o ciclo de desenvolvimento.
-
-Autonomia<br> [Gestão de pessoas colocar desenvolvimento da materia da Cásia]
-Autonomia<br>
-Autonomia<br>
-Autonomia<br>
+Adaptabilidade: 
+<details>
+Estive sempre aberto a aprender e me adaptar a novas tecnologias, metodologias de trabalho e requisitos do projeto ao longo do projeto. Reconheci a importância de nos mantermos atualizados em um ambiente de desenvolvimento de software em constante evolução.
+</details>
 
 ## Contatos
 * [GIT](https://github.com/lucasjonathangomes/)
