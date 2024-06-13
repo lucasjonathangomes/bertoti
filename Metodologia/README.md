@@ -6,8 +6,10 @@ Para dar continuidade na programação, engressei na Faculdade de tecnologia de 
 
 ## Controle de jornada de trabalho - Aplicação web 
 
-* [Empresa aliada](https://2rpnet.com.br/)<br>
-* [Projeto](https://github.com/dragonfatec/Projeto-web)
+![image](https://github.com/lucasjonathangomes/bertoti/assets/111617449/3a7c705b-f36f-4884-91eb-0fa5f1707e0a)
+
+* [Empresa aliada - 2RP](https://2rpnet.com.br/)<br>
+* [Projeto - proposta de solução](https://github.com/dragonfatec/Projeto-web)
 
 
 #### 3º Semestre - 2023-2
