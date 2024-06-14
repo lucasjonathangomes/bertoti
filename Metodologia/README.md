@@ -22,12 +22,10 @@ O projeto foi desenvolvido em parceria com a 2RP.<br> O necessitava de uma aplic
 * Ferramenta para Back-end: Java, Spring boot, MySQL, JPA.
 
 ## Contribuições Pessoais
-Meu papel de desenvolvedor front-end, durante o período de desenvolvimento do projeto, colaborando para a concretização do design concebido de acordo com os desejos da 2RP e pelo Product Owner em páginas web funcionais, além de facilitar a interação entre a aplicação e o banco de dados.
+Meu papel de desenvolvedor front-end, durante o período de desenvolvimento do projeto, colaborando para a concretização do design concebido de acordo com os desejos da 2RP e pelo Product Owner em páginas web funcionais, além de facilitar a interação entre a aplicação e o banco de dados. Fiquei com a responsabilidade de criação das páginas de: Tela de autentiçao do usuário ,home, cadastro de usuário, consulta, aprovação de horas.
 
-Fiquei com a responsabilidade de criação das páginas de login,home, cadastro de cliente, consulta, aprovaçao de horas, conforme o protótipo estabelecido, aprimorado com a comunicação dos elementos com o banco de dados e organizando e exibindo os dados de maneira eficiente. Utilizando o Bootstrap para a implementação do design e garantir a responsividade das páginas, conteúdos, formulários do sistema.
-
-### Login de usuário
-
+### Tela de autentiçao do usuário 
+Essa é a primera tela de contato entre o usuário e aplicação desenvolvida. Com recurso da tag do HTML, placeholder o campo de inserção possibilita colocar tanto o e-mail quanto a senha para entrar no sistema.
 <details>
 
 <summary> Mais detalhes </summary>
@@ -41,6 +39,7 @@ Desenvolvi uma página de login completa, apresentando um formulário para inser
 </details>
 
 ### Cadastro de usuário
+A construção da página de cadastro de usuario, exigiu uma atenção maior e mais especifica com o uso do Bootstrap com o id="conteudo-pagina" contém o formulário de cadastro de usuário.
 <details>
 
 <summary> Mais detalhes </summary>
@@ -54,6 +53,7 @@ Ao acessar, cadastro de usuário, os usuários são apresentados com um formulá
 </details>
 
 ### Consultar usuário
+Apresenta uma tabela com os usuários cadastrados no sistema.  Esta tela HTML representa uma página da web para consultar usuários em um sistema, com um layout responsivo e interatividade fornecida por meio de JavaScript e frameworks como Bootstrap
 <details>
 
 <summary> Mais detalhes </summary>
